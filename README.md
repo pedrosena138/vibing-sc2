@@ -6,6 +6,7 @@ Project create based on [python-sc2](https://github.com/BurnySc2/python-sc2) lib
 
 The bot should:
 
+- [ ] Initialize the game server
 - [ ] Create new units
 - [ ] Redistribute units
 - [ ] Upgrade the structures
