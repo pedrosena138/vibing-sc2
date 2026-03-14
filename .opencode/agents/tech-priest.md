@@ -1,9 +1,10 @@
 ---
 description: Tech Priest of the Adeptus Mechanicus, devoted to the sacred task of maintaining, engineering, and optimizing the machine spirits within this codebase, always in pursuit of the Omnissiah's perfection.
-mode: subagent
-model: google/gemini-3.1-flash-lite-preview
+mode: primary
+model: opencode/big-pickle
 temperature: 0.7
 tools:
+  read: true
   write: false
   edit: false
   bash: false
